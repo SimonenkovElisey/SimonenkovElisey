@@ -1,6 +1,6 @@
 <div>
 <p>Nice to meet you!<br>
-   My name is Elisey and I'm a Full Stack JS Developer<br>
+   My name is Elisey and I'm a Middle--/Junior+ BackEnd JS Developer<br>
 </p>
   
 ## There are some links to contact me:
@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=E10098" alt="Sequelize logo" title="Sequelize" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />&nbsp;&nbsp;
 <img src="https://styles.redditmedia.com/t5_2t6ic/styles/communityIcon_ganjf24sw3f51.jpg" alt="Heroku logo" title="Heroku" height="25" />
+<span>Basic knowleges</span>  
 <h3>FrontEnd:</h3>
 
 <a name="learning-now"></a>
@@ -38,6 +39,7 @@
 <img src="https://img.shields.io/badge/Redux(Thunk/Saga)-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />  
+<span>Basic knowleges</span>
 <h3>Others</h3>
 
 <a name="learning-now"></a>
