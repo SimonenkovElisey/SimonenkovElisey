@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=E10098" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
 <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=E10098" alt="Sequelize logo" title="Sequelize" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />&nbsp;&nbsp;
-<img src="https://styles.redditmedia.com/t5_2t6ic/styles/communityIcon_ganjf24sw3f51.jpg" alt="Heroku logo" title="Heroku" height="25" />
+<img src="https://styles.redditmedia.com/t5_2t6ic/styles/communityIcon_ganjf24sw3f51.jpg" alt="Heroku logo" title="Heroku" height="25" /><br>  
 <span>Basic knowleges</span>  
 <h3>FrontEnd:</h3>
 
