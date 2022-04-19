@@ -6,7 +6,7 @@
 ## There are some links to contact me:
   
 <a name="telegram" href="https://t.me/EliseySimonenkov"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
-<a name="gmail" href="mailto:evsimonenkov@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
+<a name="gmail" href="mailto:evsimonenkov@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a name="watsapp" href="https://wa.me/89522050554"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a><br>   
    
 <!--    ## CV  -->
