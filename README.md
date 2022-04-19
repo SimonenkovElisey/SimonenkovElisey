@@ -9,12 +9,10 @@
 <a name="gmail" href="mailto:evsimonenkov@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a name="watsapp" href="https://wa.me/89522050554"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a><br>   
    
-<!--    ## CV  -->
-<!--    <span>EN:</span>
-   <a name="cv" href="https://www.canva.com/design/DAEr7-YQqng/54AjsIz8ExKS1s1oFVjjxw/view?utm_content=DAEr7-YQqng&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
+## CV 
     <span>RU:</span>
-   <a name="cv" href="https://www.canva.com/design/DAEr7yjSBCY/SCJNyYT-tqbmiBj8eeEInA/view?utm_content=DAEr7yjSBCY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
-</div> -->
+   <a name="cv" href="https://www.canva.com/design/DAE-TtJ9wv4/3QiKeXSLDcqka-rXDlbibg/view?utm_content=DAEr7yjSBCY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
+</div> 
 
 ## 🛠 My Tech Stack:
 
